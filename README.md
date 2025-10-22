@@ -1,5 +1,3 @@
-![adam](https://github.com/adamtpang.png)
-
 <p align="center">
   Building <a href="https://eign.xyz">eign.xyz</a> - AI search visibility for the modern web.
   <br>
@@ -21,12 +19,4 @@
 </p>
 
 <p align="center">
-  <a href="https://adamtomas.fun">🎵 adamtomas.fun</a> · 
-  <a href="https://warpcast.com/adampang">farcaster</a>
-</p>
-
----
-
-<p align="center">
-  <i>I like building things that matter with tools that move fast.</i>
-</p>
+  <a href="https://adamtomas.fun">🎵 adamtomas.fun</a> ·
