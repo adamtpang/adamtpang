@@ -1,16 +1,5 @@
-<p align="center">
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/e1c6fb43-e54c-48a1-bc04-cc5c85b43724" />
+<p align="left">
   Building <a href="https://eign.xyz">eign.xyz</a> - AI search visibility for the modern web.
   <br>
-  2nd longtermer @ <a href="https://ns.com">ns.com</a>.<br/><br/>
-  First principles thinker who ships fast.
-  <br>
-  Generalist with high empathy and an eye for aesthetics.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://adamtomas.fun">🎵 adamtomas.fun</a> ·
+  2nd longtermer at <a href="https://ns.com">ns.com</a>.<br/><br/>
