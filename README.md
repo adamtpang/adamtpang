@@ -2,7 +2,7 @@
 
 **Founder-engineer. I ship AI-native products fast, solo, from Guam and the Network School.**
 
-One thesis runs through everything I build: make human potential legible, then route it to its highest use. I turn that into products. 25+ are live, most designed, built, and shipped end to end by one person, with Claude as a force multiplier.
+One thesis runs through everything I build: make human potential legible, then route it to its highest use. I turn that into products. **45+ are live across 60+ domains**, most designed, built, and shipped end to end by one person, with Claude as a force multiplier.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -10,16 +10,18 @@ One thesis runs through everything I build: make human potential legible, then r
 ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ## Selected work
 
 **AI agents and products**
 - **[sellsniper.com](https://sellsniper.com)** - The AI sales agent. Finds the exact humans on Earth who would love your work, then drafts the message.
 - **[summon.guide](https://summon.guide)** - Train with history's legendary minds. Streaming chat, voice, cited sources.
+- **[archimedes.life](https://archimedes.life)** - The leverage diagnosis. Find and cure the four levers you're under-using.
 
 **Legibility engines (a market cap for everything)**
 - **[optimism.fun](https://optimism.fun)** - The world's demand map. Humanity's biggest unsolved problems, ranked from live data.
-- **[company.university](https://company.university)** - Companies as open schools, plus a live in-demand-skills board that matches talent to demand.
+- **[darktalent.tech](https://darktalent.tech)** - Moneyball for talent. Scout the undervalued, rate the legends. Signal over pedigree.
 - **[countriesmarketcap.com](https://countriesmarketcap.com)** - The CoinMarketCap of nation-states, ranked by net wealth, GDP, and debt.
 - **[deathmoney.fyi](https://deathmoney.fyi)** - Your financial freedom number, from Claude-analyzed statements.
 
@@ -28,16 +30,20 @@ One thesis runs through everything I build: make human potential legible, then r
 - **[conjecture.school](https://conjecture.school)** - A fellowship for the Beginning of Infinity. Deutschian epistemology, taught in public.
 - **[pangaea.blog](https://pangaea.blog)** - One app, one essay, one song, every week. Building toward a thousand of each.
 
+**Teaching the craft**
+- **[vercel.school](https://vercel.school)** - Learn Vercel by shipping. A working classroom where every lesson ends with something live on the internet.
+
 ## How I work
 
 - **0 to 1 in days, not quarters.** Idea to deployed product on Next.js / Astro + Claude, end to end.
 - **AI as the interface, not a feature.** Every product assumes the model is the runtime.
 - **Customer zero.** I run each product on myself before anyone else touches it.
+- **I own the whole stack in production.** 98 projects and 63 domains under one account: DNS, ISR and caching costs, deploy pipelines, incident triage. Shipping is the easy half; keeping it all alive is the job.
 - **Distribution-obsessed.** Building is half the job. Getting it in front of the exact right humans is the other half, which is literally what sellsniper does.
 
 ## Currently
 
-Shipping **adam.inc** from the Network School. Open to **founding-engineer, forward-deployed / applied-AI, AI-product, and developer-relations** roles at teams building the frontier of AI.
+Shipping **[adam.inc](https://adam.inc)** from the Network School in Forest City, Malaysia. Open to **founding-engineer, forward-deployed / applied-AI, AI-product, and developer-relations** roles at teams building the frontier of AI — with a bias toward APAC coverage, where I already live and ship.
 
 ## Elsewhere
 
@@ -48,4 +54,4 @@ Shipping **adam.inc** from the Network School. Open to **founding-engineer, forw
 
 ---
 
-<sub>App Academy grad. 25+ products shipped solo across AI, ranking engines, civic tooling, and the creator economy. Based in Guam and at the Network School, Forest City.</sub>
+<sub>App Academy grad. 45+ products shipped solo across AI, ranking engines, civic tooling, and the creator economy. Based in Guam and at the Network School, Forest City.</sub>
