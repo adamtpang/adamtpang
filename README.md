@@ -1,18 +1,41 @@
-# Adam Pangelinan
+# Adam Pang
 
-Founder-engineer. I ship products solo, fast, from Guam and the Network School. 50+ live, most built end to end with Claude doing a lot of the typing.
+Founder-engineer building useful internet businesses with AI.
 
-[vitals.run](https://vitals.run): an operating dashboard for running a company
-[sellsniper.com](https://sellsniper.com): finds the people who'd actually want what you made, drafts the message
-[skill.supply](https://skill.supply): an AI agent that packages you and matches you to jobs
-[optimism.fun](https://optimism.fun): humanity's biggest unsolved problems, ranked from live data
-[darktalent.tech](https://darktalent.tech): moneyball for talent, signal over pedigree
-[deathmoney.fyi](https://deathmoney.fyi): your financial freedom number, from real statements
-[pangaea.blog](https://pangaea.blog): an app, an essay, a song, every week
-[vercel.school](https://vercel.school): I teach Vercel by shipping in public
+I work from Network School, ship in public, and turn good questions into live products. This is the code behind [adampang.com](https://adampang.com).
 
-I run this whole thing as one Vercel account. 100+ projects, 65 domains, my problem when any of it breaks. When I noticed there was no way for one of my repos to tell an AI agent what a sibling repo already solved, I wrote a protocol for that: [repo-protocol](https://github.com/adamtpang/repo-protocol)
+## Now
 
-Building [adam.inc](https://adam.inc) from the Network School, Forest City. Open to founding-engineer, forward-deployed, applied-AI roles. APAC is my timezone advantage, not a compromise.
+Building [adam.inc](https://adam.inc): a growing collection of products, experiments, and infrastructure for more human agency on the internet.
 
-[adampang.com](https://adampang.com), [@adamtpang](https://x.com/adamtpang), [LinkedIn](https://www.linkedin.com/in/adamtpang), [pangaea.blog](https://pangaea.blog)
+- [pangaea.blog](https://pangaea.blog) - one app, one essay, one song, every week
+- [vitals.run](https://vitals.run) - an operating dashboard for running a company
+- [strummer.fun](https://strummer.fun) - tools for discovering and making music
+- [interneta.world](https://interneta.world) - a hub for the network-state internet
+
+## Selected Work
+
+| Product | What it does |
+| --- | --- |
+| [optimism.fun](https://optimism.fun) | Maps humanity's biggest unsolved problems from live data. |
+| [sellsniper.com](https://sellsniper.com) | Finds people who need what you made and drafts the outreach. |
+| [skill.supply](https://skill.supply) | Packages your abilities and matches you to work. |
+| [darktalent.tech](https://darktalent.tech) | Moneyball for talent: signal over pedigree. |
+| [deathmoney.fyi](https://deathmoney.fyi) | Calculates financial freedom from real statements. |
+| [vercel.school](https://vercel.school) | Learn Vercel by shipping something live. |
+| [summon.guide](https://summon.guide) | Train with seven legendary founders. |
+| [wonderhall.live](https://wonderhall.live) | A live-music night built to bring beauty back. |
+
+## How I Build
+
+I run a portfolio of 60+ public repositories and live products. AI is part of the workflow, but the responsibility stays mine: choose the problem, make the tradeoffs, talk to users, and keep shipping.
+
+When I needed sibling repositories to share durable context with coding agents, I built [repo-connect](https://github.com/adamtpang/repo-connect), a manifest and verifier for the relationships between repositories.
+
+I am interested in applied AI, software that gives people more leverage, music, and ambitious internet-native institutions.
+
+## Find Me
+
+[Website](https://adampang.com) · [X](https://x.com/adamtpang) · [LinkedIn](https://www.linkedin.com/in/adamtpang) · [Pangaea](https://pangaea.blog) · [GitHub](https://github.com/adamtpang) · [Book a call](https://cal.com/adamtpang)
+
+For collaborations, opportunities, or a thoughtful note: [message me](mailto:adamtpang@gmail.com).
