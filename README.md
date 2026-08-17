@@ -6,10 +6,10 @@ Founder-engineer at [adam.inc](https://adam.inc). Building from Network School.
 
 ## Shipped
 
-<a href="https://optimism.fun"><img src="https://raw.githubusercontent.com/adamtpang/adamtpang/main/assets/optimism.png" alt="optimism.fun" width="49%" /></a>
-<a href="https://sellsniper.com"><img src="https://raw.githubusercontent.com/adamtpang/adamtpang/main/assets/sellsniper.png" alt="sellsniper.com" width="49%" /></a>
+<a href="https://optimism.fun"><img src="https://adampang.com/github-profile/optimism.png" alt="optimism.fun" width="49%" /></a>
+<a href="https://sellsniper.com"><img src="https://adampang.com/github-profile/sellsniper.png" alt="sellsniper.com" width="49%" /></a>
 
-<a href="https://summon.guide"><img src="https://raw.githubusercontent.com/adamtpang/adamtpang/main/assets/summon.png" alt="summon.guide" width="49%" /></a>
+<a href="https://summon.guide"><img src="https://adampang.com/github-profile/summon.png" alt="summon.guide" width="49%" /></a>
 
 | | |
 | --- | --- |
